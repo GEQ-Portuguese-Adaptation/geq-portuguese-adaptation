@@ -103,7 +103,7 @@ The manuscript included in this repository is:
 
 **Lourenço, D. F., de Oliveira, R., Blascovi de Assis, S. M., & Corrêa, A. G. D. (2027). Translation and Cultural Adaptation of the GEQ into Brazilian Portuguese. Journal on Interactive Systems, 18(1).**
 
-- [Article PDF](article/GEQ_Portuguese_Adaptation.pdf)
+- [Article PDF](https://github.com/GEQ-Portuguese-Adaptation/geq-portuguese-adaptation/blob/main/article/GEQ_Portuguese_Adaptation.pdf)
 - Journal DOI: `10.5753/jis.2027.XXXX` *(replace with the final DOI after publication)*
 
 ## Data & Analysis code
@@ -114,11 +114,11 @@ The repository is intended to provide the pilot-study data used in the analyses 
 
 The statistical analyses were conducted in **Python**.
 
-**Code:** `[GitHub / code directory — to be added]`
+**Code:** `https://github.com/GEQ-Portuguese-Adaptation/geq-portuguese-adaptation/blob/main/GEQ_translation_complete_analysis.ipynb`
 
 ## Ethics and participant data
 
-The study was approved by the Institutional Human Research Ethics Committee of the host university (CAAE: ). Participants provided written informed consent, and confidentiality and anonymity were guaranteed. 
+The study was approved by the Institutional Human Research Ethics Committee of the host university ([CAAE: 83094424.6.0000.0084](https://github.com/GEQ-Portuguese-Adaptation/geq-portuguese-adaptation/blob/main/others/CEP_7176627.pdf)). Participants provided written informed consent, and confidentiality and anonymity were guaranteed. 
 
 ## Citation
 
