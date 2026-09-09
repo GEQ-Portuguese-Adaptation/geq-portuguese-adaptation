@@ -120,7 +120,7 @@ The study was approved by the Institutional Human Research Ethics Committee of t
 
 ## Article & Citation
 
-**Lourenço, D. F., de Oliveira, R., Blascovi de Assis, S. M., & Corrêa, A. G. D. (2027). [Translation and Cultural Adaptation of the GEQ into Brazilian Portuguese](https://github.com/GEQ-Portuguese-Adaptation/geq-portuguese-adaptation/blob/main/article/GEQ_Portuguese_Adaptation.pdf). Journal on Interactive Systems, 18(1).** DOI: [`10.5753/jis.2027.XXXX`]() *(it will be replaced after publication)*
+Lourenço, D. F., de Oliveira, R., Blascovi de Assis, S. M., & Corrêa, A. G. D. (2027). [Translation and Cultural Adaptation of the GEQ into Brazilian Portuguese](https://github.com/GEQ-Portuguese-Adaptation/geq-portuguese-adaptation/blob/main/article/GEQ_Portuguese_Adaptation.pdf). Journal on Interactive Systems, 18(1). DOI: [`10.5753/jis.2027.XXXX`]() *(it will be replaced after publication)*
 
 <br>
 
