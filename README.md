@@ -7,12 +7,9 @@ Repository containing the article, data, analysis scripts, and supporting materi
 
 > **Translation and Cultural Adaptation of the GEQ into Brazilian Portuguese**
 
-**Authors**
+**Authors**: *Douglas Fabiano Lourenço, Rogério de Oliveira, Silvana Maria Blascovi de Assis, Ana Grasielle Dionísio Corrêa*
 
-- Douglas Fabiano Lourenço — Mackenzie Presbyterian University
-- Rogério de Oliveira — Mackenzie Presbyterian University; Mauá Institute of Technology
-- Silvana Maria Blascovi de Assis — Mackenzie Presbyterian University
-- Ana Grasielle Dionísio Corrêa — Mackenzie Presbyterian University
+<br>
 
 ## Overview
 
