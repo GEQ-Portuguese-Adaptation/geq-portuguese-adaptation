@@ -3,7 +3,8 @@
 <!-- <a href="url"><img src="https://github.com/GEQ-Portuguese-Adaptation/geq-portuguese-adaptation/blob/main/others/GEQ_img.png?raw=true" align="right" width="200" ></a> -->
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22681094.svg)](https://doi.org/10.5281/zenodo.22681094)
+[![DOI](https://doi.org/10.5281/zenodo.22681094)](https://doi.org/10.5281/zenodo.22681094)
+
 
 Repository containing the article, data, analysis scripts, and supporting materials for:
 
@@ -87,22 +88,23 @@ The repository is intended to contain the following materials:
 ├── README.md
 ├── CITATION.cff
 ├── LICENSE
-├── GEQ_translation_complete_analysis.ipynb
+├── GEQ_translation_complete_analysis.ipynb                         # Complete analysis scripts
 │
 ├── article/
 │   ├── GEQ_Portuguese_Adaptation.pdf
-|   └── GEQ_Portuguese_Adaptation.zip 
+|   └── GEQ_Portuguese_Adaptation.zip                               # Article Latex project
 │
 ├── data/
 │   ├── GEQ_Core.xlsx
-│   ├── GEQ_Final_Translation_all_modules.xlsx
+│   ├── GEQ_Final_Translation_all_modules.xlsx                      # Final translation and cultural adaptation of the GEQ into brazilian portuguese
 │   ├── PSQ_Post-Game.xlsx
 │   ├── SPGQ_Social_Presence.xlsx
 │   └── population_info.xlsx
 │ 
 └── others/
-    ├── CEP_7176627.pdf
-    └── GEQ_img.png
+    ├── CEP_7176627.pdf                                             # CAAE: 83094424.6.0000.0084 result
+    ├── GEQ_img.png
+    └── Game Experience Questionnaire (GEQ) – Authorization         # Translation authorization from original author
 
 ```
 
