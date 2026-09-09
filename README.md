@@ -1,7 +1,9 @@
 # Translation and Cultural Adaptation of the GEQ into Brazilian Portuguese
 
+<!-- <a href="url"><img src="https://github.com/GEQ-Portuguese-Adaptation/geq-portuguese-adaptation/blob/main/others/GEQ_img.png?raw=true" align="right" width="200" ></a> -->
+
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![DOI](https://img.shields.io/badge/DOI-Zenodo%3A%20TBD-blue)](https://doi.org/10.5281/zenodo.22681094)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22681094.svg)](https://doi.org/10.5281/zenodo.22681094)
 
 Repository containing the article, data, analysis scripts, and supporting materials for:
 
@@ -9,6 +11,7 @@ Repository containing the article, data, analysis scripts, and supporting materi
 
 **Authors**: *Douglas Fabiano Lourenço, Rogério de Oliveira, Silvana Maria Blascovi de Assis, Ana Grasielle Dionísio Corrêa*
 
+<br>
 <br>
 
 ## Overview
@@ -87,24 +90,21 @@ The repository is intended to contain the following materials:
 ├── GEQ_translation_complete_analysis.ipynb
 │
 ├── article/
-│   └── GEQ_Portuguese_Adaptation.pdf
+│   ├── GEQ_Portuguese_Adaptation.pdf
+|   └── GEQ_Portuguese_Adaptation.zip 
 │
-└── data/
-    ├── GEQ_Core.xlsx
-    ├── PSQ_Post-Game.xlsx
-    ├── SPGQ_Social_Presence.xlsx
-    └── population_info.xlsx
+├── data/
+│   ├── GEQ_Core.xlsx
+│   ├── GEQ_Final_Translation_all_modules.xlsx
+│   ├── PSQ_Post-Game.xlsx
+│   ├── SPGQ_Social_Presence.xlsx
+│   └── population_info.xlsx
+│ 
+└── others/
+    ├── CEP_7176627.pdf
+    └── GEQ_img.png
 
 ```
-
-## Article
-
-The manuscript included in this repository is:
-
-**Lourenço, D. F., de Oliveira, R., Blascovi de Assis, S. M., & Corrêa, A. G. D. (2027). Translation and Cultural Adaptation of the GEQ into Brazilian Portuguese. Journal on Interactive Systems, 18(1).**
-
-- [Article PDF](https://github.com/GEQ-Portuguese-Adaptation/geq-portuguese-adaptation/blob/main/article/GEQ_Portuguese_Adaptation.pdf)
-- Journal DOI: `10.5753/jis.2027.XXXX` *(replace with the final DOI after publication)*
 
 ## Data & Analysis code
 
@@ -116,17 +116,17 @@ The statistical analyses were conducted in **Python**.
 
 **Code:** [`https://github.com/GEQ-Portuguese-Adaptation/geq-portuguese-adaptation/blob/main/GEQ_translation_complete_analysis.ipynb`](https://github.com/GEQ-Portuguese-Adaptation/geq-portuguese-adaptation/blob/main/GEQ_translation_complete_analysis.ipynb)
 
+Final translation:
+
+**GEQ into Brazilian Portuguese**: [`https://github.com/GEQ-Portuguese-Adaptation/geq-portuguese-adaptation/blob/main/data/GEQ_Final_Translation_all_modules.xlsx`](https://github.com/GEQ-Portuguese-Adaptation/geq-portuguese-adaptation/blob/main/data/GEQ_Final_Translation_all_modules.xlsx)
+
 ## Ethics and participant data
 
 The study was approved by the Institutional Human Research Ethics Committee of the host university ([CAAE: 83094424.6.0000.0084](https://github.com/GEQ-Portuguese-Adaptation/geq-portuguese-adaptation/blob/main/others/CEP_7176627.pdf)). Participants provided written informed consent, and confidentiality and anonymity were guaranteed. 
 
-## Citation
+## Article & Citation
 
-If you use the code, data, or adapted instrument from this repository, please cite the associated article and the archived repository version.
-
-**Article citation:** to be updated with the final bibliographic information after publication.
-
-**Repository DOI:** `[Zenodo DOI — to be added]`
+[**Lourenço, D. F., de Oliveira, R., Blascovi de Assis, S. M., & Corrêa, A. G. D. (2027). Translation and Cultural Adaptation of the GEQ into Brazilian Portuguese. Journal on Interactive Systems, 18(1).**](https://github.com/GEQ-Portuguese-Adaptation/geq-portuguese-adaptation/blob/main/article/GEQ_Portuguese_Adaptation.pdf). DOI: `10.5753/jis.2027.XXXX` *(it will be replaced after publication)*
 
 ## Contact
 
