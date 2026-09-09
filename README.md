@@ -110,9 +110,9 @@ The repository is intended to contain the following materials:
 
 * **Data repository:** [`https://doi.org/10.5281/zenodo.22681094`](https://doi.org/10.5281/zenodo.22681094) The repository is intended to provide the data used in the analyses reported in the article.
 
-* **Code:** [`https://github.com/GEQ-Portuguese-Adaptation/geq-portuguese-adaptation/blob/main/GEQ_translation_complete_analysis.ipynb`](https://github.com/GEQ-Portuguese-Adaptation/geq-portuguese-adaptation/blob/main/GEQ_translation_complete_analysis.ipynb). The statistical analyses were conducted in **Python**, all scripts are available in the notebook.
+* **Analysis code:** The statistical analyses were conducted in **Python**, all scripts are available in a Python [notebook](https://github.com/GEQ-Portuguese-Adaptation/geq-portuguese-adaptation/blob/main/GEQ_translation_complete_analysis.ipynb).
 
-Here the [final translation and cultural adaptation of the GEQ into brazilian portuguese](https://github.com/GEQ-Portuguese-Adaptation/geq-portuguese-adaptation/blob/main/data/GEQ_Final_Translation_all_modules.xlsx).
+* **Final translation:** Here the [final translation and cultural adaptation of the GEQ into brazilian portuguese](https://github.com/GEQ-Portuguese-Adaptation/geq-portuguese-adaptation/blob/main/data/GEQ_Final_Translation_all_modules.xlsx).
 
 ## Ethics and participant data
 
@@ -120,7 +120,7 @@ The study was approved by the Institutional Human Research Ethics Committee of t
 
 ## Article & Citation
 
-[**Lourenço, D. F., de Oliveira, R., Blascovi de Assis, S. M., & Corrêa, A. G. D. (2027). Translation and Cultural Adaptation of the GEQ into Brazilian Portuguese. Journal on Interactive Systems, 18(1).**](https://github.com/GEQ-Portuguese-Adaptation/geq-portuguese-adaptation/blob/main/article/GEQ_Portuguese_Adaptation.pdf). DOI: `10.5753/jis.2027.XXXX` *(it will be replaced after publication)*
+**Lourenço, D. F., de Oliveira, R., Blascovi de Assis, S. M., & Corrêa, A. G. D. (2027). [Translation and Cultural Adaptation of the GEQ into Brazilian Portuguese](https://github.com/GEQ-Portuguese-Adaptation/geq-portuguese-adaptation/blob/main/article/GEQ_Portuguese_Adaptation.pdf). Journal on Interactive Systems, 18(1).** DOI: [`10.5753/jis.2027.XXXX`]() *(it will be replaced after publication)*
 
 <br>
 
