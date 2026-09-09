@@ -1,7 +1,7 @@
 # Translation and Cultural Adaptation of the GEQ into Brazilian Portuguese
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![DOI](https://img.shields.io/badge/DOI-Zenodo%3A%20TBD-blue)](https://doi.org/)
+[![DOI](https://img.shields.io/badge/DOI-Zenodo%3A%20TBD-blue)](https://doi.org/10.5281/zenodo.22681094)
 
 Repository containing the article, data, analysis scripts, and supporting materials for:
 
@@ -110,11 +110,11 @@ The manuscript included in this repository is:
 
 The repository is intended to provide the pilot-study data used in the analyses reported in the article.
 
-**Data repository:** `[Zenodo DOI — to be added]`
+**Data repository:** [`https://doi.org/10.5281/zenodo.22681094`](https://doi.org/10.5281/zenodo.22681094)
 
 The statistical analyses were conducted in **Python**.
 
-**Code:** `https://github.com/GEQ-Portuguese-Adaptation/geq-portuguese-adaptation/blob/main/GEQ_translation_complete_analysis.ipynb`
+**Code:** [`https://github.com/GEQ-Portuguese-Adaptation/geq-portuguese-adaptation/blob/main/GEQ_translation_complete_analysis.ipynb`](https://github.com/GEQ-Portuguese-Adaptation/geq-portuguese-adaptation/blob/main/GEQ_translation_complete_analysis.ipynb)
 
 ## Ethics and participant data
 
@@ -130,9 +130,5 @@ If you use the code, data, or adapted instrument from this repository, please ci
 
 ## Contact
 
-For questions regarding the study, adapted instrument, data, or analysis code, please contact the corresponding author:
-
-**Douglas Fabiano Lourenço**  
-Mackenzie Presbyterian University  
-Email: douglas.fab@gmail.com
+For questions regarding the study, adapted instrument, data, or analysis code, please contact the corresponding author [**Douglas Fabiano Lourenço**](mailto:douglas.fab@gmail.com). 
 
