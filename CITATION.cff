@@ -1,0 +1,57 @@
+cff-version: 1.2.0
+message: "If you use the code, data, or materials from this repository, please cite the associated research article and the archived repository version."
+title: "Translation and Cultural Adaptation of the GEQ into Brazilian Portuguese"
+version: 1.0.0
+date-released: 2026-09-09
+url: "https://github.com/GEQ-Portuguese-Adaptation/geq-portuguese-adaptation"
+doi: "10.5281/zenodo.22681094"
+type: dataset
+
+authors:
+  - family-names: "Lourenço"
+    given-names: "Douglas Fabiano"
+  - family-names: "de Oliveira"
+    given-names: "Rogério"
+  - family-names: "Blascovi de Assis"
+    given-names: "Silvana Maria"
+  - family-names: "Corrêa"
+    given-names: "Ana Grasielle Dionísio"
+
+abstract: >
+  Repository containing the article, data, statistical analysis scripts,
+  and supporting materials for the translation and cultural adaptation
+  of the Game Experience Questionnaire (GEQ) into Brazilian Portuguese.
+
+keywords:
+  - Game Experience Questionnaire
+  - GEQ
+  - Brazilian Portuguese
+  - cultural adaptation
+  - cross-cultural adaptation
+  - game experience
+  - psychometric validation
+  - exploratory factor analysis
+  - Cronbach's alpha
+  - McDonald's omega
+
+license: "CC-BY-4.0"
+
+preferred-citation:
+  type: article
+  title: "Translation and Cultural Adaptation of the GEQ into Brazilian Portuguese"
+  authors:
+    - family-names: "Lourenço"
+      given-names: "Douglas Fabiano"
+    - family-names: "de Oliveira"
+      given-names: "Rogério"
+    - family-names: "Blascovi de Assis"
+      given-names: "Silvana Maria"
+    - family-names: "Corrêa"
+      given-names: "Ana Grasielle Dionísio"
+  journal: "Journal on Interactive Systems"
+  volume: 18
+  issue: 1
+  year: 2027
+  doi: "10.5753/jis.2027.XXXX"
+
+
