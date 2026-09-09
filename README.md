@@ -128,12 +128,6 @@ If you use the code, data, or adapted instrument from this repository, please ci
 
 **Repository DOI:** `[Zenodo DOI — to be added]`
 
-## License
-
-The article states that the work is licensed under the **Creative Commons Attribution 4.0 International (CC BY 4.0)** license.
-
-The license for code and data may be specified separately if appropriate. In particular, the authors should consider using a software license for source code and an appropriate data license for datasets rather than assuming that the article's CC BY license is automatically the best license for every repository component.
-
 ## Contact
 
 For questions regarding the study, adapted instrument, data, or analysis code, please contact the corresponding author:
