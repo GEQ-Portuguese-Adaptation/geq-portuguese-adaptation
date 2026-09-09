@@ -64,8 +64,8 @@ The overall modules showed high internal reliability:
 | Module | McDonald's ω | Cronbach's α |
 |---|---:|---:|
 | GEQ Core | 0.993 | 0.911 |
-| PGQ | 0.978 | 0.812 |
-| SPGQ | 0.973 | 0.910 |
+| PGQ Post-Game | 0.978 | 0.812 |
+| SPGQ Social Presence | 0.973 | 0.910 |
 
 Some individual components showed lower reliability, notably:
 
@@ -84,30 +84,18 @@ The repository is intended to contain the following materials:
 ├── README.md
 ├── CITATION.cff
 ├── LICENSE
+├── GEQ_translation_complete_analysis.ipynb
 │
 ├── article/
 │   └── GEQ_Portuguese_Adaptation.pdf
 │
-├── data/
-│   ├── README.md
-│   └── [raw and/or anonymized pilot data]
-│
-├── code/
-│   ├── README.md
-│   └── [R analysis scripts]
-│
-├── results/
-│   ├── README.md
-│   ├── tables/
-│   └── figures/
-│
-└── instrument/
-    ├── GEQ_Core_Brazilian_Portuguese.pdf
-    ├── GEQ_Post_Game_Brazilian_Portuguese.pdf
-    └── GEQ_Social_Presence_Brazilian_Portuguese.pdf
-```
+└── data/
+    ├── GEQ_Core.xlsx
+    ├── PSQ_Post-Game.xlsx
+    ├── SPGQ_Social_Presence.xlsx
+    └── population_info.xlsx
 
-The exact filenames and organization may be adjusted as the repository is finalized.
+```
 
 ## Article
 
@@ -118,87 +106,19 @@ The manuscript included in this repository is:
 - [Article PDF](article/GEQ_Portuguese_Adaptation.pdf)
 - Journal DOI: `10.5753/jis.2027.XXXX` *(replace with the final DOI after publication)*
 
-## Tables and results
-
-The article contains the following main tables:
-
-| Table | Content | Location in article |
-|---|---|---|
-| Table 1 | Sample characterization (n = 115) | Section 3.1 |
-| Table 2 | KMO and Bartlett's test | Section 4 |
-| Table 3 | GEQ Core Module — rotated pattern matrix | Section 4.1 |
-| Table 4 | PGQ — rotated pattern matrix | Section 4.2 |
-| Table 5 | SPGQ — rotated pattern matrix | Section 4.2 |
-| Table 6 | Internal reliability: ω, α, and 95% CI | Section 4.3 |
-| Table 7 | Brazilian Portuguese GEQ Core Module | Section 5 |
-| Table 8 | Brazilian Portuguese Post-Game GEQ | Section 5 |
-| Table 9 | Brazilian Portuguese Social Presence GEQ | Section 5 |
-
-If machine-readable versions of the tables are added to this repository, links will be provided here, for example:
-
-- `results/tables/table_01_sample_characterization.csv`
-- `results/tables/table_02_efa_adequacy.csv`
-- `results/tables/table_03_geq_core_pattern_matrix.csv`
-- `results/tables/table_04_pgq_pattern_matrix.csv`
-- `results/tables/table_05_spgq_pattern_matrix.csv`
-- `results/tables/table_06_reliability.csv`
-
-At the time of repository creation, these paths are placeholders and should only be linked after the corresponding files have been added.
-
-## Data
+## Data & Analysis code
 
 The repository is intended to provide the pilot-study data used in the analyses reported in the article.
 
 **Data repository:** `[Zenodo DOI — to be added]`
 
-Before publication of participant-level data, the authors should ensure that the released dataset is fully consistent with the approved ethics protocol and informed-consent terms and that no directly or indirectly identifying information is included.
-
-## Analysis code
-
-The statistical analyses were conducted in **R**.
+The statistical analyses were conducted in **Python**.
 
 **Code:** `[GitHub / code directory — to be added]`
 
-The analysis scripts should reproduce, as applicable:
-
-- data preparation;
-- descriptive analyses;
-- KMO and Bartlett's tests;
-- exploratory factor analyses;
-- Promax rotations;
-- communalities and factor loadings;
-- Cronbach's alpha;
-- McDonald's omega;
-- confidence intervals;
-- tables and figures reported in the article.
-
-## Reproducibility
-
-To reproduce the analyses:
-
-1. Clone this repository.
-2. Install the R dependencies listed in `code/README.md` or the project dependency file.
-3. Obtain the dataset described in `data/README.md`.
-4. Run the analysis scripts in the documented order.
-5. Generated tables and figures should be written to the `results/` directory.
-
-The repository will distinguish between:
-
-- **raw data** — original participant-level data, where ethically and legally shareable;
-- **processed data** — cleaned or transformed data used by the analyses;
-- **analysis code** — scripts required to reproduce the statistical analyses;
-- **derived results** — tables, figures, and intermediate outputs.
-
 ## Ethics and participant data
 
-The study was approved by the Institutional Human Research Ethics Committee of the host university. Participants provided written informed consent, and confidentiality and anonymity were guaranteed.
-
-Ethics information in the manuscript:
-
-- CAAE: `[ANONYMIZED FOR PEER REVIEW]`
-- Ethical framework: Brazilian National Health Council, CNS Resolution 510/2016.
-
-The public release of any participant-level data must preserve the confidentiality and anonymity commitments made during the study and comply with the applicable ethics approval.
+The study was approved by the Institutional Human Research Ethics Committee of the host university (CAAE: ). Participants provided written informed consent, and confidentiality and anonymity were guaranteed. 
 
 ## Citation
 
@@ -208,17 +128,11 @@ If you use the code, data, or adapted instrument from this repository, please ci
 
 **Repository DOI:** `[Zenodo DOI — to be added]`
 
-A machine-readable citation is provided in [`CITATION.cff`](CITATION.cff).
-
 ## License
 
 The article states that the work is licensed under the **Creative Commons Attribution 4.0 International (CC BY 4.0)** license.
 
 The license for code and data may be specified separately if appropriate. In particular, the authors should consider using a software license for source code and an appropriate data license for datasets rather than assuming that the article's CC BY license is automatically the best license for every repository component.
-
-## Acknowledgements
-
-[Add acknowledgements, funding information, institutional support, and/or grant information here.]
 
 ## Contact
 
