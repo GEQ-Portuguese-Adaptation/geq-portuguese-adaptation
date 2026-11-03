@@ -50,7 +50,7 @@ The Brazilian Portuguese adaptation covers the three GEQ modules:
 - **Post-Game Questionnaire (PGQ)** — 17 items;
 - **Social Presence Questionnaire (SPGQ)** — 17 items.
 
-The final Brazilian Portuguese versions are reported in Tables 7–9 of the article.
+The final Brazilian Portuguese versions are reported in Tables 8–10 and Appendix A of the article.
 
 ## Main findings
 
@@ -86,6 +86,7 @@ The repository is intended to contain the following materials:
 .
 ├── README.md
 ├── CITATION.cff
+├── CODEBOOK.md                                                     # Description of all variables and coding
 ├── LICENSE
 ├── GEQ_translation_complete_analysis.ipynb                         # Complete analysis scripts
 │
@@ -96,7 +97,7 @@ The repository is intended to contain the following materials:
 ├── data/
 │   ├── GEQ_Core.xlsx
 │   ├── GEQ_Final_Translation_all_modules.xlsx                      # Final translation and cultural adaptation of the GEQ into brazilian portuguese
-│   ├── PSQ_Post-Game.xlsx
+│   ├── PGQ_Post-Game.xlsx
 │   ├── SPGQ_Social_Presence.xlsx
 │   └── population_info.xlsx
 │ 
