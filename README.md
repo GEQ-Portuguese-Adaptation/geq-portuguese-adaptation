@@ -3,7 +3,9 @@
 <!-- <a href="url"><img src="https://github.com/GEQ-Portuguese-Adaptation/geq-portuguese-adaptation/blob/main/others/GEQ_img.png?raw=true" align="right" width="200" ></a> -->
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) | 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22681094.svg)](https://doi.org/10.5281/zenodo.22681094)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23918755.svg)](https://doi.org/10.5281/zenodo.23918755)
+
+<!-- [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22681094.svg)](https://doi.org/10.5281/zenodo.22681094) , previous version -->
 
 Repository containing the article, data, analysis scripts, and supporting materials for:
 
